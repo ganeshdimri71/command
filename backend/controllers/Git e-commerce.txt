@@ -1,0 +1,26 @@
+691f7fb (HEAD -> master) Added Update Profile Route
+cd948a8 (HEAD -> master) Added Json Errors and duplicate email error handling code
+49e9805 (HEAD -> master) Sucessfully reslove the error of becryptjs not comparing hashed and given password
+3b6d1fb (HEAD -> master) Added Email Verification through nodemailer
+3752923 (HEAD -> master) Added mailing facility for forgot password
+be1818e (HEAD -> master) Created Procted Routes for create,update and delete products
+c7f2ac2 (HEAD -> master) Created Logout Route
+df813c5 (HEAD -> master) Craeting auth.js file
+c917e24 (HEAD -> master) Storing the token in cookie
+4171178 (HEAD -> master) Created route for user login
+2f5f079 (HEAD -> master) Created Token when user wil register
+fac75b8 (HEAD -> master) Created User Model and the route for user registration
+7398225 (HEAD -> master) Added ProductCount variable to getAllProducts route
+51cf9bd (HEAD -> master) Added Pagination Functinality
+471e0fa (HEAD -> master) Added Price Filter Functionality
+ab4288c (HEAD -> master) Added Filter Functionality
+a7f5bc5 (HEAD -> master) Added Search Functionality
+2a00598 (HEAD -> master) Handled Type Cast Error
+2a30667 (HEAD -> master) Handled Uncaught Exception Error
+6ca749e (HEAD -> master) Handled Error for MongoDB
+1c8aad9 (HEAD -> master) Created asynccatchAsyncError.js for handling error related to entering incomplete information during creation of a new product
+a9d9051 (HEAD -> master) Created ErrorHandler Class for handling Error if the Products are not found during updating and deleting operation
+09f22ee (HEAD -> master) Created Routes for crud operations
+69eeec0 (HEAD -> master) Created Model For Product
+e53174f (HEAD -> master) Created Database
+15002c2 created server
